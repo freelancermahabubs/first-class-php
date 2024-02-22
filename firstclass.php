@@ -30,15 +30,5 @@ else {
     echo "Both Similar Age";
 }
 
-$numberOne = 2;
-$numberTwo =8;
-$numberThree = 85;
 
-if($numberOne > $numberTwo) {
-    echo "Number One Big";
-
-}
-else if( $numberTwo > $numberThree){
-    echo "Number Two is Big";
-}
 ?>
